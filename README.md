@@ -1,4 +1,4 @@
-# APIEmployeesTests_Restsharp
+# register-employees-restsharp
 
 POC demonstrative using XUnit and RestSharp for Automation Tests in API Rest
 
