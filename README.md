@@ -1,5 +1,5 @@
 # register-employees-restsharp
 
-POC demonstrative using XUnit and RestSharp for Automation Tests in API Rest
+A simple project using restsharp for API Testing
 
-API used for testing: https://github.com/fredmoreira/register-employees
+API Example on test - https://github.com/fredmoreira/register-employees
